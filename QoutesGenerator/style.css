@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #16171e;
+}
+.container {
+  text-align: center;
+  width: 400px;
+  background-color: #20212b;
+  color: #ccc;
+  height: 250px;
+  border-radius: 20px;
+}
+p {
+  padding-top: 10px;
+  color: #67d865;
+}
+h1 {
+  padding: 40px 0;
+}
+.btn-design {
+  padding: 8px 40px;
+  background-color: #67d865;
+  border-radius: 20px;
+  font-weight: bold;
+}
